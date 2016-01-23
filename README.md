@@ -1,8 +1,6 @@
 VGAPong
 =======
 
-Final Project for CSC258
-
 Two Player Games
 Player1: Up - KEY[3], Down - KEY[2]
 Player2: Up - Keyboard Up, Down - Keyboard Down
